@@ -1,0 +1,16 @@
+{
+  "name": "lighthouse-analyzer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.0.11",
+    "lighthouse": "^5.6.0",
+    "puppeteer": "^3.0.4",
+    "valid-url": "^1.0.9"
+  }
+}
